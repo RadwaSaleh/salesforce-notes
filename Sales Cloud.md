@@ -62,5 +62,5 @@
     - Allows you to make smarter budgeting decisions based on past campaign performance.
     
 - Record Types 
-
+    - Allows you to customise page layout based on record types
   
