@@ -33,6 +33,7 @@
     -  An opportunity is created when a lead is converted. Opportunities can also be created directly for accounts you’re working on.
     -  Opportunities are deals in progress. 
     -  Opportunity records track details about deals, including which accounts they’re for.
+    -  Opportunity stages are the steps to be taken to sell a product or a service within your company and they are customizable.
     
 - Activities:
    - Two types of activities Tasks and Events.
