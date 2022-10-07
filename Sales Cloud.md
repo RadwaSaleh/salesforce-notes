@@ -56,7 +56,11 @@
 - Auto-Response Rule
     - Based on the lead interest you can send an auto response email
 
-- Creating Campaigns 
+- Campaigns 
+    - Campaigns records is a holding area for marketing activities to track marketing efforts
+    - Identify where money goes and where it comes in
+    - Allows you to make smarter budgeting decisions based on past campaign performance.
+    
 - Record Types 
 
   
