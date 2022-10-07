@@ -21,9 +21,42 @@
     - Creating email templates to use them in individual and mass emails
 
 
-- Creating and Managing Price Books 
+- Price Books 
     - Manage pricing for different customers
     - Customize pricing on products per customer 
     - Standard and Custom Price Books
+
+- Products
+    - This is like a catalog of the products and/or services your business offers
+    
+- Opportunities
+    -  An opportunity is created when a lead is converted. Opportunities can also be created directly for accounts you’re working on.
+    -  Opportunities are deals in progress. 
+    -  Opportunity records track details about deals, including which accounts they’re for.
+    
+- Activities:
+   - Two types of activities Tasks and Events.
+   - Tasks are date-sensitive like to-do lists.
+   - Events are time-sensitive actions like meetings/calls.
+   
+- Web-to-Lead 
+    - Allows you to create HTML form and post it anywhere online to attract Leads and create them on salesforce
+    - You can use a hidden field to indicate the source of the lead if you posted it on multiple sites 
+
+
+- Lead Assignment Rule
+    - It allows you to assign leads to a user or queue. i.e. routing leads to the most appropriate person based on the logic you set up
+    - allows you to do some action based on the criteria of that lead. Ex: where that lead comes from
+    
+- Lead Queue
+    - Lead Queue is a holding area for leads that are not ready for assignment yet
+    - This list needs to be 
+
+
+- Auto-Response Rule
+    - Based on the lead interest you can send an auto response email
+
+- Creating Campaigns 
+- Record Types 
 
   
