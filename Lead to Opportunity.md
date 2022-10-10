@@ -22,7 +22,8 @@
 
 
 - Price Books 
-    - Manage pricing for different customers
+    - If you want to associate a price to a Product, you have to add it to a Price Book in order to do so.
+    - Manage pricing for different customers: Price Books is like a Price catalog that contains a list of your products and the list price at which they are being offered to the customers. 
     - Customize pricing on products per customer 
     - Standard and Custom Price Books
 
@@ -33,7 +34,7 @@
     -  An opportunity is created when a lead is converted. Opportunities can also be created directly for accounts you’re working on.
     -  Opportunities are deals in progress. 
     -  Opportunity records track details about deals, including which accounts they’re for.
-    -  Opportunity stages are the steps to be taken to sell a product or a service within your company, and they are customizable.
+    -  Opportunity stages are the steps to be taken to sell a product or a service within your company and they are customizable.
     
 - Activities:
    - Two types of activities Tasks and Events.
@@ -43,14 +44,15 @@
 - Web-to-Lead 
     - Allows you to create HTML form and post it anywhere online to attract Leads and create them on salesforce
     - You can use a hidden field to indicate the source of the lead if you posted it on multiple sites 
-    
+
+
 - Lead Assignment Rule
     - It allows you to assign leads to a user or queue. i.e. routing leads to the most appropriate person based on the logic you set up
     - allows you to do some action based on the criteria of that lead. Ex: where that lead comes from
     
 - Lead Queue
     - Lead Queue is a holding area for leads that are not ready for assignment yet
-    - This list needs to be 
+    - This list needs to be monitored 
 
 
 - Auto-Response Rule
