@@ -51,7 +51,7 @@
     
 - Lead Queue
     - Lead Queue is a holding area for leads that are not ready for assignment yet
-    - This list needs to be 
+    - This list needs to be monitored 
 
 
 - Auto-Response Rule
