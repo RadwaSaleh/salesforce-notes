@@ -5,7 +5,7 @@
     - As other objects on Salesforce, you can create activities on a Quote
     - You can create approval processes on Quotes
 
-Quote/Opportunity Line Item:
+- Quote/Opportunity Line Item:
     - Creating a Quote is not useful without line items
     - Line Items are a selection of products with their prices from the price book to be added finally to the opportunity.
 
